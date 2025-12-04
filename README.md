@@ -1,4 +1,10 @@
-# NeoMeet - Video Conferencing Application
+<div align="center">
+  <img src="./screenshots/logo.png" alt="NeoMeet Logo" width="200"/>
+  
+  # NeoMeet - Video Conferencing Application
+  
+  <p><em>Connect, Collaborate, Communicate</em></p>
+</div>
 
 ## Overview
 
