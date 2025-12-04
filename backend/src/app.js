@@ -23,6 +23,18 @@ app.use(express.urlencoded({ limit: "40kb", extended: true }));
 
 app.use("/api/v1/users", userRoutes);
 
+// Root route
+app.get("/", (req, res) => {
+  res.json({
+    message: "NeoMeet API Server",
+    status: "Running",
+    endpoints: {
+      users: "/api/v1/users",
+      home: "/home"
+    }
+  });
+});
+
 app.get("/home", (req, res) => {
   res.send("Hello World!");
 });
