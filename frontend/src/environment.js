@@ -1,6 +1,4 @@
-let IS_PROD = true;
-const server = IS_PROD
-  ? "https://apnacollegebackend.onrender.com"
-  : "http://localhost:8000";
+// Use environment variable for API URL, fallback to production URL
+const server = process.env.REACT_APP_API_URL || "https://apnacollegebackend.onrender.com";
 
 export default server;
